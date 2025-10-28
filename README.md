@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 I’m a Student Developer specializing in web and AI-based projects, eager to learn and collaborate on impactful tech solutions.
-I’m a final-year Computer Science Engineering student specializing in Web and AI-based projects. Passionate about open source, problem-solving, and building real-world applications using modern technologies.
+💻 I’m a final-year Computer Science Engineering student specializing in Web and AI-based projects. Passionate about open source, problem-solving, and building real-world applications using modern technologies.
 Currently exploring Blockchain, AI-powered systems, and Full Stack Development.
 Eager to learn, collaborate, and contribute to impactful tech solutions.
 
