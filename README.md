@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 I’m a final-year Computer Science Engineering student specializing in Web and AI-based projects. Passionate about open source, problem-solving, and building real-world applications using modern technologies.
 Currently exploring Blockchain, AI-powered systems, and Full Stack Development.
-Eager to learn, collaborate, and contribute to impactful tech solutions.
+Eager to learn, collaborate, and contribute to impactful tech solutions..
 
 
 ## 🌐 Socials:
