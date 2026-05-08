@@ -1,7 +1,10 @@
-# 💫 About Me:
-💻 I’m a final-year Computer Science Engineering student specializing in Web and AI-based projects. Passionate about open source, problem-solving, and building real-world applications using modern technologies.
-Currently exploring Blockchain, AI-powered systems, and Full Stack Development.
-Eager to learn, collaborate, and contribute to impactful tech solutions..
+## 👨‍💻 About Me
+
+Computer Science Engineering Graduate and Full Stack Developer focused on building responsive, scalable, and real-world web applications.
+
+🛠️ Skills: React.js, Node.js, Express.js, MongoDB, JavaScript, Java  
+🚀 Open Source Contributor | 50+ Project Contributions  
+🔍 Interested in AI-powered applications and modern web technologies
 
 
 ## 🌐 Socials:
